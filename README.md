@@ -1,4 +1,4 @@
-# wordpress-business-opening-hours
+# WordPress Business Opening Hours
 
 Manage all your business opening hours including office timings, shop hours and store hours with this latest WordPress plugin.
 
